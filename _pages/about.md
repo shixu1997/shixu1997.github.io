@@ -52,6 +52,6 @@ Xu Shi received the B.S. and Ph.D. degrees from the Department of Electronic Eng
 
 2.3. Patents
 -----
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
+1. 王劲涛, <ins>**史旭**</ins>, 潘长勇, 阳辉, "RIS级联信道多用户联合的结构化稀疏估计方法及装置", ZL202111209673.4. (授权日期：2022.12.27).
+2. 王劲涛, <ins>**史旭**</ins>, 夏亮, 王启星, 程执天, "波束追踪方法、装置、设备及存储介质", CN202310454244.6.
+3. 曹亚帅, 王鹤潼, 王劲涛, <ins>**史旭**</ins>, "基于层叠式超表面的电磁波域帧级干扰利用预编码方法", CN202510304288.X.

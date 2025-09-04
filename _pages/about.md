@@ -21,6 +21,7 @@ Xu Shi received the B.S. and Ph.D. degrees from the Department of Electronic Eng
 
 2.Publications
 ======
+
 2.1. Journal Papers
 ------
 1. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup>, Z. Sun and J. Song, "Spatial-chirp Codebook-based Hierarchical Beam Training for Extremely Large-Scale Massive MIMO,"  _IEEE Trans. Wirel. Commun._, 2023.

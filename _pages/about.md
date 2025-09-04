@@ -11,48 +11,47 @@ Xu Shi received the B.S. and Ph.D. degrees from the Department of Electronic Eng
 
 [Google Scholar](https://scholar.google.com/citations?user=sE3xP34AAAAJ&hl=en) [IEEE](https://ieeexplore.ieee.org/author/37088803908)
 
-支持中文吗
+1.Research Grants
+=====
+1. 模型-数据混合驱动的超大规模阵列高效波束管理技术研究, 北京市自然科学青年基金(4254069), 2025/01~2027/12, 主持, 20万.
+2. 面向超大规模阵列通信的近场波束管理技术研究, 中国博士后科学基金第75批面上(2024M761671), 2025/01~2026/06, 主持, 8万.
+3. 基于信道图谱的水声超大阵列通信关键技术研究, 2025国家资助博士后研究人员计划B档(GZB20250143), 2025/07~2026/06, 主持, 18万/年.
+4. 2024年清华大学“水木学者”计划
 
-A data-driven personal website
+
+2.Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+2.1. Journal Papers
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup>, Z. Sun and J. Song, "Spatial-chirp Codebook-based Hierarchical Beam Training for Extremely Large-Scale Massive MIMO,"  <font color=#7CFC00> _IEEE Trans. Wirel. Commun._</font>, 2023.
+2. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup> and J. Song, "Triple-Structured Compressive Sensing-based Channel Estimation for RIS-aided MU-MIMO Systems," <font color=#7CFC00> _IEEE Trans. Wirel. Commun._</font>, 2022.
+3. <ins>**X. Shi**</ins>, J. Du, J. Wang<sup>*</sup>, K. Huang, and T. Quek, "Beamforming Design for AirComp-Aided Massive MIMO System: A Mutual Information Perspective," _IEEE Trans. Wirel. Commun._, 2024.
+4. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup>, C You, and J. Song, “Double-side XL-MIMO: Codebook-based Beamfocusing and Estimation Design,” _IEEE Trans. Commun._.
+5. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup>, and J. Song, “Frequency-Scanning-Based Fast Multiuser Beam Training for Wideband Massive MIMO,”  _IEEE Internet of Things Journal_, 2024.
+6. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup>, C. Pan and J. Song, "Low-Complexity Hybrid Precoding Algorithm Based on Log-Det Expansion for GenSM-Aided MmWave MIMO System," _IEEE Transactions on Vehicular Technology_, 2021.
+7. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup> and J. Song, ``Triple-Structured Sparsity-Based Channel Feedback for RIS-Assisted MU-MIMO System," _IEEE Commun. Lett._, 2022.
+8. <ins>**X. Shi**</ins>, H. Wang, J. Zuo, and J. Wang<sup>*</sup>, "Time-Delay-Aided Fast Beam Training for Near-Field Wideband XL-MIMO Systems," _Tsinghua Science and Technology_, 2025.
+9. H. Wang, <ins>**X. Shi<sup>*</sup>**</ins>, H. Zhang, Y. Cao and J. Wang, "Energy Efficiency Optimization for Symbol-Level Precoding-Aided RSMA MIMO System," _IEEE Wirel. Commun. Lett_, 2025.
+10. J. Wang<sup>*</sup>, X. Zhang, <ins>**X. Shi**</ins> and J. Song, "Higher Spectral Efficiency for mmWave MIMO: Enabling Techniques and Precoder Designs," _IEEE Communications Magazine_, 2021.
+11. Y. Cao, J. Wang<sup>*</sup>, <ins>**X. Shi**</ins>, and W. Ni, "Lightweight and Self-Evolving Channel Twinning: An Ensemble DMD-Assisted Approach," _IEEE Trans. Wirel. Commun._, 2025.
+12. X. Wang, <ins>**X. Shi**</ins>, J. Tan, J. Wang<sup>*</sup>, and Z. Sun, "Orthogonal Hyperbolic Frequency Division Multiplexing Modulation for Underwater Acoustic Communications," _IEEE Trans. Wirel. Commun._, 2025.
+13. X. Wang, <ins>**X. Shi**</ins>, J, Wang<sup>*</sup> and J. Song, "On the Doppler Squint Effect in OTFS Systems over Doubly-Dispersive Channels: Modeling and Evaluation,"  _IEEE Trans. Wirel. Commun._, 2023.
+14. X. Wang, <ins>**X. Shi**</ins>, J. Wang<sup>*</sup> and Z. Sun, "Iterative LMMSE-SIC Detector for DSE-Aware Underwater Acoustic OTFS Systems," _IEEE Transactions on Vehicular Technology_, 2024.
+15. X. Wang, <ins>**X. Shi**</ins> and J. Wang<sup>*</sup>, "Sparse Bayesian Learming-Based Of-grid Estimaton of OTEs chamnels with Doppler Squint", _Tsinghua Science amd Technology_, 2024.
 
-Create content & metadata
+
+2.2. Conference Papers
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. <ins>**X. Shi**</ins>, J. Wang, Z. Sun and J. Song, "Chirp-based Hierarchical Beam Training for Extremely Large-Scale Massive MIMO," _IEEE International Conference on Communications (ICC 2023)_.
+2. <ins>**X. Shi**</ins>, X. Wang, J. Tan and J. Wang, "Sparse Estimation for XL-MIMO with Unified LoS/NLoS Representation," _Proc. IEEE Int. Conf. Commun (ICC 2024)_.
+3. <ins>**X. Shi**</ins>, J. Wang, G. Chen and J. Song, "Triple-Structured Compressive Sensing-based Channel Estimation for RIS-aided MU-MIMO Systems," _2021 IEEE Global Communications Conference (GLOBECOM)_, 2021.
+4. <ins>**X. Shi**</ins> and J. Wang, "Low-Complexity Hybrid Precoder Design for GenSM-Aided mmWave MIMO," _2020 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB)_, 2020.
+5. X. Wang, <ins>**X. Shi**</ins>, J. Wang, and J. Song, "Input-output relation and low-complexity receiver design for CP-OTFS systems with Doppler squint," _2023 IEEE Globecom Workshops (GC Wkshps)_.
+6. X. Wang, J. Wang and <ins>**X. Shi**</ins>, "A Hungarian Algorithm Based Hybrid Precoding Scheme for mmWave Massive MIMO Systems," _2022 IEEE Wireless Communications and Networking Conference (WCNC)_, 2022.
+7. X. Wang, J. Wang and <ins>**X. Shi**</ins>, "A Low-Complexity Hybrid Precoding Scheme for mmWave MIMO Systems with Dynamic Subarrays," _International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB’21)_, 2021.
 
-**Markdown generator**
-
+2.3. Patents
+-----
 The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

@@ -23,8 +23,8 @@ Xu Shi received the B.S. and Ph.D. degrees from the Department of Electronic Eng
 ======
 2.1. Journal Papers
 ------
-1. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup>, Z. Sun and J. Song, "Spatial-chirp Codebook-based Hierarchical Beam Training for Extremely Large-Scale Massive MIMO,"  <font color=#7CFC00> _IEEE Trans. Wirel. Commun._</font>, 2023.
-2. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup> and J. Song, "Triple-Structured Compressive Sensing-based Channel Estimation for RIS-aided MU-MIMO Systems," <font color=#7CFC00> _IEEE Trans. Wirel. Commun._</font>, 2022.
+1. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup>, Z. Sun and J. Song, "Spatial-chirp Codebook-based Hierarchical Beam Training for Extremely Large-Scale Massive MIMO,"  _IEEE Trans. Wirel. Commun._, 2023.
+2. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup> and J. Song, "Triple-Structured Compressive Sensing-based Channel Estimation for RIS-aided MU-MIMO Systems," _IEEE Trans. Wirel. Commun._, 2022.
 3. <ins>**X. Shi**</ins>, J. Du, J. Wang<sup>*</sup>, K. Huang, and T. Quek, "Beamforming Design for AirComp-Aided Massive MIMO System: A Mutual Information Perspective," _IEEE Trans. Wirel. Commun._, 2024.
 4. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup>, C You, and J. Song, “Double-side XL-MIMO: Codebook-based Beamfocusing and Estimation Design,” _IEEE Trans. Commun._.
 5. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup>, and J. Song, “Frequency-Scanning-Based Fast Multiuser Beam Training for Wideband Massive MIMO,”  _IEEE Internet of Things Journal_, 2024.

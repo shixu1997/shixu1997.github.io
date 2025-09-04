@@ -17,13 +17,13 @@ Xu Shi received the B.S. and Ph.D. degrees from the Department of Electronic Eng
 2. 面向超大规模阵列通信的近场波束管理技术研究, 中国博士后科学基金第75批面上(2024M761671), 2025/01~2026/06, 主持, 8万.
 3. 基于信道图谱的水声超大阵列通信关键技术研究, 2025国家资助博士后研究人员计划B档(GZB20250143), 2025/07~2026/06, 主持, 18万/年.
 4. 2024年清华大学“水木学者”计划
-
-
+   
 2.Publications
 ======
 
+
 2.1. Journal Papers
-------
+-----
 1. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup>, Z. Sun and J. Song, "Spatial-chirp Codebook-based Hierarchical Beam Training for Extremely Large-Scale Massive MIMO,"  _IEEE Trans. Wirel. Commun._, 2023.
 2. <ins>**X. Shi**</ins>, J. Wang<sup>*</sup> and J. Song, "Triple-Structured Compressive Sensing-based Channel Estimation for RIS-aided MU-MIMO Systems," _IEEE Trans. Wirel. Commun._, 2022.
 3. <ins>**X. Shi**</ins>, J. Du, J. Wang<sup>*</sup>, K. Huang, and T. Quek, "Beamforming Design for AirComp-Aided Massive MIMO System: A Mutual Information Perspective," _IEEE Trans. Wirel. Commun._, 2024.
@@ -42,7 +42,7 @@ Xu Shi received the B.S. and Ph.D. degrees from the Department of Electronic Eng
 
 
 2.2. Conference Papers
-------
+-----
 1. <ins>**X. Shi**</ins>, J. Wang, Z. Sun and J. Song, "Chirp-based Hierarchical Beam Training for Extremely Large-Scale Massive MIMO," _IEEE International Conference on Communications (ICC 2023)_.
 2. <ins>**X. Shi**</ins>, X. Wang, J. Tan and J. Wang, "Sparse Estimation for XL-MIMO with Unified LoS/NLoS Representation," _Proc. IEEE Int. Conf. Commun (ICC 2024)_.
 3. <ins>**X. Shi**</ins>, J. Wang, G. Chen and J. Song, "Triple-Structured Compressive Sensing-based Channel Estimation for RIS-aided MU-MIMO Systems," _2021 IEEE Global Communications Conference (GLOBECOM)_, 2021.

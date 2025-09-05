@@ -51,7 +51,7 @@ Xu Shi received the B.S. and Ph.D. degrees from the Department of Electronic Eng
 6. H. Wang, <ins>**X. Shi**</ins>, H. Zhang, Y. Cao and J. Wang, "Beamforming-Codebook-Aware Channel Knowledge Map Construction for Multi-Antenna Systems," _IEEE Global Communications Conference (GLOBECOM 2025)_.
 7. H. Zhang, X. Wang, <ins>**X. Shi**</ins>, J. Wang and Z. Yang, "RSMA-Assited and Transceiver-Coordinated ICI Management for MIMO-OFDM System," _IEEE Global Communications Conference (GLOBECOM 2025)_
 8. H. Zhang, X. Wang, <ins>**X. Shi**</ins> and J. Wang, "Deep Learning-Based FDD Massive MIMO-RSMA against Time-Varying Channels," _IEEE/CIC International Conference on Communications in China (ICCC 2025)_.
-9. X. Wang, <ins>**X. Shi**</ins>, J. Wang, and J. Song, "Input-output relation and low-complexity receiver design for CP-OTFS systems with Doppler squint," _IEEE Globecom Workshops (GC Wkshps 2023)_.
+9. X. Wang, <ins>**X. Shi**</ins>, J. Wang, and J. Song, "Input-output relation and low-complexity receiver design for CP-OTFS systems with Doppler squint," _IEEE Globecom Workshops (GC Wkshps 2023)_.(**Best Paper Award**)
 10. X. Wang, J. Wang and <ins>**X. Shi**</ins>, "A Hungarian Algorithm Based Hybrid Precoding Scheme for mmWave Massive MIMO Systems," _IEEE Wireless Communications and Networking Conference (WCNC 2022)_.
 11. X. Wang, J. Wang and <ins>**X. Shi**</ins>, "A Low-Complexity Hybrid Precoding Scheme for mmWave MIMO Systems with Dynamic Subarrays," _International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2021)_.
 
@@ -63,5 +63,20 @@ Xu Shi received the B.S. and Ph.D. degrees from the Department of Electronic Eng
 4. 王劲涛, 王薛涵, 史旭, 张超, "时延-多普勒域逐元素数据检测方法、装置、设备及介质", CN202410403522.X.
 5. 王劲涛, 王薛涵, 史旭, 潘长勇, "多用户时延-多普勒域下行数据传输方法及装置", CN202410403518.3.
 
+# Academic Activities
+
+## Reviewer & TPC
+- IEEE Communication Magazine
+- IEEE JSAC, IEEE TWC, IEEE TCOM, IEEE TVT, IEEE IOTJ, IEEE CL, IEEE WCL
+- IEEE ICC, IEEE GLOBECOM, IEEE WCNC, IEEE/CIC ICCC
+- TPC: IEEE WCNC 2025
+
+## Conference Workshop/Symposia Chair
+Null
+
+# Eduction & Work Experience
+- B.S. in the Department of Electronic Engineering, Tsinghua University, 2015.9~2019.6
+- Ph.D. in the Department of Electronic Engineering, Tsinghua University, 2019.9~2024.6
+- Post Doctor, in the Department of Electronic Engineering, Tsinghua University, 2024.7~2025.6
 
 

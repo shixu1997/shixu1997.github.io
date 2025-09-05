@@ -41,16 +41,26 @@ Xu Shi received the B.S. and Ph.D. degrees from the Department of Electronic Eng
 
 ## 2.2. Conference Papers
 
-1. <ins>**X. Shi**</ins>, J. Wang, Z. Sun and J. Song, "Chirp-based Hierarchical Beam Training for Extremely Large-Scale Massive MIMO," _IEEE International Conference on Communications (ICC 2023)_.
+
+1. <ins>**X. Shi**</ins>, H. Zhang, J. Tan, Y. Cao and J. Wang, "Full-Phase-Range Acoustic RIS: Implementation and Beamforming Design," _IEEE International Conference on Communications (ICC 2025)_.
 2. <ins>**X. Shi**</ins>, X. Wang, J. Tan and J. Wang, "Sparse Estimation for XL-MIMO with Unified LoS/NLoS Representation," _Proc. IEEE Int. Conf. Commun (ICC 2024)_.
-3. <ins>**X. Shi**</ins>, J. Wang, G. Chen and J. Song, "Triple-Structured Compressive Sensing-based Channel Estimation for RIS-aided MU-MIMO Systems," _2021 IEEE Global Communications Conference (GLOBECOM)_, 2021.
-4. <ins>**X. Shi**</ins> and J. Wang, "Low-Complexity Hybrid Precoder Design for GenSM-Aided mmWave MIMO," _2020 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB)_, 2020.
-5. X. Wang, <ins>**X. Shi**</ins>, J. Wang, and J. Song, "Input-output relation and low-complexity receiver design for CP-OTFS systems with Doppler squint," _2023 IEEE Globecom Workshops (GC Wkshps)_.
-6. X. Wang, J. Wang and <ins>**X. Shi**</ins>, "A Hungarian Algorithm Based Hybrid Precoding Scheme for mmWave Massive MIMO Systems," _2022 IEEE Wireless Communications and Networking Conference (WCNC)_, 2022.
-7. X. Wang, J. Wang and <ins>**X. Shi**</ins>, "A Low-Complexity Hybrid Precoding Scheme for mmWave MIMO Systems with Dynamic Subarrays," _International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB’21)_, 2021.
+3. <ins>**X. Shi**</ins>, J. Wang, Z. Sun and J. Song, "Chirp-based Hierarchical Beam Training for Extremely Large-Scale Massive MIMO," _IEEE International Conference on Communications (ICC 2023)_.
+4. <ins>**X. Shi**</ins>, J. Wang, G. Chen and J. Song, "Triple-Structured Compressive Sensing-based Channel Estimation for RIS-aided MU-MIMO Systems," _IEEE Global Communications Conference (GLOBECOM 2021)_.
+5. <ins>**X. Shi**</ins> and J. Wang, "Low-Complexity Hybrid Precoder Design for GenSM-Aided mmWave MIMO," _2020 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB)_, 2020.
+6. H. Wang, <ins>**X. Shi**</ins>, H. Zhang, Y. Cao and J. Wang, "Beamforming-Codebook-Aware Channel Knowledge Map Construction for Multi-Antenna Systems," _IEEE Global Communications Conference (GLOBECOM 2025)_.
+7. H. Zhang, X. Wang, <ins>**X. Shi**</ins>, J. Wang and Z. Yang, "RSMA-Assited and Transceiver-Coordinated ICI Management for MIMO-OFDM System," _IEEE Global Communications Conference (GLOBECOM 2025)_
+8. H. Zhang, X. Wang, <ins>**X. Shi**</ins> and J. Wang, "Deep Learning-Based FDD Massive MIMO-RSMA against Time-Varying Channels," _IEEE/CIC International Conference on Communications in China (ICCC 2025)_.
+9. X. Wang, <ins>**X. Shi**</ins>, J. Wang, and J. Song, "Input-output relation and low-complexity receiver design for CP-OTFS systems with Doppler squint," _IEEE Globecom Workshops (GC Wkshps 2023)_.
+10. X. Wang, J. Wang and <ins>**X. Shi**</ins>, "A Hungarian Algorithm Based Hybrid Precoding Scheme for mmWave Massive MIMO Systems," _IEEE Wireless Communications and Networking Conference (WCNC 2022)_.
+11. X. Wang, J. Wang and <ins>**X. Shi**</ins>, "A Low-Complexity Hybrid Precoding Scheme for mmWave MIMO Systems with Dynamic Subarrays," _International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB 2021)_.
 
 ## 2.3. Patents
 
 1. 王劲涛, <ins>**史旭**</ins>, 潘长勇, 阳辉, "RIS级联信道多用户联合的结构化稀疏估计方法及装置", ZL202111209673.4. (授权日期：2022.12.27).
 2. 王劲涛, <ins>**史旭**</ins>, 夏亮, 王启星, 程执天, "波束追踪方法、装置、设备及存储介质", CN202310454244.6.
 3. 曹亚帅, 王鹤潼, 王劲涛, <ins>**史旭**</ins>, "基于层叠式超表面的电磁波域帧级干扰利用预编码方法", CN202510304288.X.
+4. 王劲涛, 王薛涵, 史旭, 张超, "时延-多普勒域逐元素数据检测方法、装置、设备及介质", CN202410403522.X.
+5. 王劲涛, 王薛涵, 史旭, 潘长勇, "多用户时延-多普勒域下行数据传输方法及装置", CN202410403518.3.
+
+
+

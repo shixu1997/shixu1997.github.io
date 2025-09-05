@@ -37,6 +37,7 @@ Xu Shi received the B.S. and Ph.D. degrees from the Department of Electronic Eng
 13. X. Wang, <ins>**X. Shi**</ins>, J, Wang<sup>*</sup> and J. Song, "On the Doppler Squint Effect in OTFS Systems over Doubly-Dispersive Channels: Modeling and Evaluation,"  _IEEE Trans. Wirel. Commun._, 2023.
 14. X. Wang, <ins>**X. Shi**</ins>, J. Wang<sup>*</sup> and Z. Sun, "Iterative LMMSE-SIC Detector for DSE-Aware Underwater Acoustic OTFS Systems," _IEEE Transactions on Vehicular Technology_, 2024.
 15. X. Wang, <ins>**X. Shi**</ins> and J. Wang<sup>*</sup>, "Sparse Bayesian Learming-Based Of-grid Estimaton of OTEs chamnels with Doppler Squint", _Tsinghua Science amd Technology_, 2024.
+16. J. Tan, Z. Ren, <ins>**X. Shi**</ins>, Z. Sun and J. Wang, "Deployment of Acoustic Reconfigurable Intelligent Surface in Underwater Acoustic Communications under Deep-Sea Long-Range Scenarios", _IEEE Access_, 2025.
 
 
 ## 2.2. Conference Papers

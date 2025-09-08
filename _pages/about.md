@@ -37,7 +37,7 @@ Xu Shi received the B.S. and Ph.D. degrees from the Department of Electronic Eng
 13. X. Wang, <ins>**X. Shi**</ins>, J, Wang<sup>*</sup> and J. Song, "On the Doppler Squint Effect in OTFS Systems over Doubly-Dispersive Channels: Modeling and Evaluation,"  _IEEE Trans. Wirel. Commun._, vol. 22, no. 12, pp. 8781-8796, Dec. 2023, [doi: 10.1109/TWC.2023.3265989](https://ieeexplore.ieee.org/document/10103827).
 14. X. Wang, <ins>**X. Shi**</ins>, J. Wang<sup>*</sup> and Z. Sun, "Iterative LMMSE-SIC Detector for DSE-Aware Underwater Acoustic OTFS Systems," _IEEE Trans. Veh. Technol._, vol. 73, no. 7, pp. 9895-9910, July 2024, [doi: 10.1109/TVT.2024.3362894](https://ieeexplore.ieee.org/document/10423132).
 15. X. Wang, <ins>**X. Shi**</ins> and J. Wang<sup>*</sup>, "Sparse Bayesian Learming-Based Of-grid Estimaton of OTEs chamnels with Doppler Squint", _Tsinghua Sci. Technol._, vol. 29, no. 6, pp. 1821-1828, December 2024, [doi: 10.26599/TST.2023.9010093](https://ieeexplore.ieee.org/document/10475894).
-16. J. Tan, Z. Ren, <ins>**X. Shi**</ins>, Z. Sun and J. Wang, "Deployment of Acoustic Reconfigurable Intelligent Surface in Underwater Acoustic Communications under Deep-Sea Long-Range Scenarios", _IEEE Access_, early access, 2025.
+16. J. Tan, Z. Ren, <ins>**X. Shi**</ins>, Z. Sun and J. Wang, "Deployment of Acoustic Reconfigurable Intelligent Surface in Underwater Acoustic Communications under Deep-Sea Long-Range Scenarios", _IEEE Access_, early access, 2025, doi: 10.1109/ACCESS.2025.3607323.
 
 
 ## 2.2. Conference Papers

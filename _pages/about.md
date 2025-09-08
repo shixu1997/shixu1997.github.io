@@ -77,7 +77,7 @@ Null
 # Eduction & Work Experience
 - B.S. in the Department of Electronic Engineering, Tsinghua University, 2015.9~2019.6
 - Ph.D. in the Department of Electronic Engineering, Tsinghua University, 2019.9~2024.6. [Advisor: Prof. Jintao Wang](https://www.ee.tsinghua.edu.cn/en/info/1058/1241.htm)
-- Visiting researcher in Department of Electrical and Electronic Engineering, the University of Hong Kong.  [Advisor: Prof. Kaibin Huang](https://www.eee.hku.hk/people/huangkb/)
-- Post Doctor, in the Department of Electronic Engineering, Tsinghua University, 2024.7~2025.6
+- Visiting researcher in Department of Electrical and Electronic Engineering, the University of Hong Kong, 2023.10~2024.1.  [Advisor: Prof. Kaibin Huang](https://www.eee.hku.hk/people/huangkb/)
+- Post Doctor, in the Department of Electronic Engineering, Tsinghua University, 2024.7~2025.6. [Advisor: Prof. Jintao Wang](https://www.ee.tsinghua.edu.cn/en/info/1058/1241.htm)
 
 
